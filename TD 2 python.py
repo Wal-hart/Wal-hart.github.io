@@ -64,9 +64,14 @@ while i!=51:
 
 i=50
 while i>0:
-     print("Il reste",i,"secondes")
-     i=i-1
+    if i==1:
+        print ("Il reste",i,"seconde")
+        i=i-1
+    else :
+        print("Il reste",i,"secondes")
+        i=i-1
 print("Boom")
+
 
 Exercice 7
 
