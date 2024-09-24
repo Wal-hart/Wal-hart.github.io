@@ -78,6 +78,13 @@ Exercice 7
 n=25
 print("*"*n)
 
+OU 
+
+a="*"
+for i in range(0,15):
+    a=a+"*"
+print(a)
+
 Exercice 8
 
 n=5
