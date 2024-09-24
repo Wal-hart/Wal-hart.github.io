@@ -80,7 +80,7 @@ print("*"*n)
 
 OU 
 
-a="*"
+a=""
 for i in range(0,15):
     a=a+"*"
 print(a)
