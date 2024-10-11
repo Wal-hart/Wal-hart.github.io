@@ -1,0 +1,11 @@
+nav ul li {color : red }
+footer p {color: purple}
+header {color: blue}
+h3 {color: yellow; font-size: 16pt; font-family: Arial, Helvetica, sans-serif;}
+h2 {color: pink}
+nav {font-style: italic;color: lightblue; }
+body {
+    background-color: lightcoral;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 5px;
+}
