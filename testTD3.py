@@ -52,4 +52,19 @@ print("exercice7")
 
 d= []
 
+transaction=[12, -3, 6, -10, 4, 5]
+resultat=0
+
+
+def liste_somme_partielle(l):
+    resultat=0
+    transaction=[12, -3, 6, -10, 4, 5]
+    for i in range (0, len(transaction)):
+            resultat=transaction [i]+ transaction [i+1]
+    print(resultat)
+   
+
+liste_somme_partielle(transaction)
+
+def liste_positive(l):
 
